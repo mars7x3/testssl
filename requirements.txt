@@ -1,0 +1,4 @@
+Django==4.1
+djangorestframework
+python-decouple==3.4 #conf
+
